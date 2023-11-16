@@ -1,0 +1,23 @@
+.container {
+  width: 500px;
+  margin: 0 auto;
+}
+
+h1 {
+  text-align: left;
+}
+.head {
+  display: flex;
+  justify-content: left;
+  margin: auto;
+  color: black;
+  width: 90%;
+  height: 80px;
+  border-radius: 10px;
+  box-shadow: rgb(249, 247, 247) 1px 3px 0px;
+}
+
+img {
+  width: 100%;
+  height: auto;
+}

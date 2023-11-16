@@ -1,0 +1,51 @@
+body {
+    font-family: sans-serif;
+}
+
+.box1 {
+    display: flex;
+    justify-content: space-evenly;
+    padding: 2%;
+
+}
+
+.box2 {
+    margin-right: 20%;
+    justify-content: center;
+}
+
+.roy1 {
+    margin-top: -1%;
+    width: 55px;
+
+}
+
+.roy2 {
+    margin-top: -1%;
+    width: 55px;
+    height: 45px;
+    font-size: medium;
+}
+
+h1 {
+    font-size: 30px;
+}
+img{
+    width: 100%;
+    /* height: auto; */
+}
+
+input[type="text"] {
+    width: 200px;
+    padding: 10%;
+    height: auto;
+
+}
+
+input[type="submit"] {
+    background-color: #4285f4;
+    color: white;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+}
